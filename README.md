@@ -11,7 +11,8 @@ The project was developed as a practical **\*\*data analytics and business intel
 
 **### Main Dashboard**
 
-![Data Jobs Market Analysis Dashboard] ![alt text]\(Dashboard.png)
+![Data Jobs Market Analysis Dashboard] <img width="576" height="326" alt="Dashboard" src="https://github.com/user-attachments/assets/87a6d5e2-8f30-4c01-bed6-1a908a7a0352" />
+
 
 \> **\*\*Preview:\*\*** The image above shows a snapshot of the interactive Power BI dashboard.
 
