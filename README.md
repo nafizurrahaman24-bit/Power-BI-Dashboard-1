@@ -11,7 +11,7 @@ The project was developed as a practical **\*\*data analytics and business intel
 
 **### Main Dashboard**
 
-![Data Jobs Market Analysis Dashboard] ![alt text]\(Dashboard-1.png)
+![Data Jobs Market Analysis Dashboard] ![alt text]\(Dashboard.png)
 
 \> **\*\*Preview:\*\*** The image above shows a snapshot of the interactive Power BI dashboard.
 
